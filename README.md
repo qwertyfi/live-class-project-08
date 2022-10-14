@@ -9,7 +9,7 @@ I'm Wasit Ali and this is my 8th project on HTML and CSS.
 
 ![](./images/2022-10-14-14-54-34.png)
 
-🚀 [Live Preview](https://classy-custard-b2156b.netlify.app/)
+🚀 [Live Preview](https://famous-arithmetic-b46a85.netlify.app/)
 
 ## 🛠️ What I have learned in this project?
 
